@@ -1,0 +1,9 @@
+Recipes_FR = {
+	Recipe_Make_BR89_Bed_Barrier = "Fabriquer Barrière de toit",
+	Recipe_Make_BR89_Bed_Cover = "Fabriquer Bâche",
+	Recipe_Make_BR89_Front_Bullbar = "Fabriquer Pare-buffle avant",
+	Recipe_Make_BR89_Front_Side_Window = "Fabriquer Vitre latérale avant",
+	Recipe_Make_BR89_Rear_Side_Window = "Fabriquer Vitre latérale arrière",
+	Recipe_Make_BR89_Rear_Windshield = "Fabriquer Pare-brise arrière",
+	Recipe_Make_BR89_Windshield = "Fabriquer Pare-brise",
+}
