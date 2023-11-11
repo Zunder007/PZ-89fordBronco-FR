@@ -1,0 +1,15 @@
+ItemName_FR = {
+	ItemName_Base.89BroncoBarrier = "89 Ford Bronco Barrière de toit",
+	ItemName_Base.89BroncoBedCover = "89 Ford Bronco Bâche",
+	ItemName_Base.89BroncoBullbarFront = "89 Ford Bronco Pare-buffle avant",
+	ItemName_Base.89BroncoBumperFront = "89 Ford Bronco Pare-chocs avant",
+	ItemName_Base.89BroncoBumperRear = "89 Ford Bronco Pare-chocs arrière",
+	ItemName_Base.89BroncoCarFrontDoor2 = "89 Ford Bronco Portière",
+	ItemName_Base.89BroncoEngineDoor2 = "89 Ford Bronco Capot",
+	ItemName_Base.89BroncoTrunk2 = "89 Ford Bronco Coffre",
+	ItemName_Base.89BroncoTrunkDoor2 = "89 Ford Bronco Fermeture de coffre",
+	ItemName_Base.89BroncoWindowSide2 = "89 Ford Bronco Vitre latérale",
+	ItemName_Base.89BroncoWindowSideRear2 = "89 Ford Bronco Vitre latérale arrière",
+	ItemName_Base.89BroncoWindshield2 = "89 Ford Bronco Pare-brise",
+	ItemName_Base.89BroncoWindshieldRear2 = "89 Ford Bronco Pare-brise arrière",
+}
