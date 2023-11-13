@@ -1,7 +1,7 @@
 IG_UI_FR = {
-	IGUI_VehicleName89fordBronco = "'89 Ford Bronco"
-	IGUI_VehicleName89fordBroncoPD = "'89 Ford Bronco Police"
-	IGUI_VehicleName89fordBroncoRanger = "'89 Ford Bronco Ranger"
+	IGUI_VehicleName89fordBronco = "'89 Ford Bronco",
+	IGUI_VehicleName89fordBroncoPD = "'89 Ford Bronco Police",
+	IGUI_VehicleName89fordBroncoRanger = "'89 Ford Bronco Ranger",
 
 	IGUI_VehiclePartBR89Rollbar = "Arceau de sécurité",
 	IGUI_VehiclePartBR89Roofrack = "Galerie de toit",
@@ -22,4 +22,5 @@ IG_UI_FR = {
 	IGUI_VehiclePartBR89WindowRearRightArmor = "Blindage de vitre arrière droite",
 
 	IGUI_CraftCategory_80sPickups = "Pickups des années 80",
+	IGUI_CraftCategory_BR89 = "'89 Ford Bronco",
 }
